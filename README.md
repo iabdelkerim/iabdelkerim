@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I'm passionate about data and AI
 <!--
 **iabdelkerim/iabdelkerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
